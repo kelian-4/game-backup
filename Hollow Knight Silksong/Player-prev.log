@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     5874 MB
     Driver:   32.0.65535.65535
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.361 seconds
-- Finished resetting the current domain, in  0.005 seconds
+- Loaded All Assemblies, in  0.378 seconds
+- Finished resetting the current domain, in  0.006 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,980 +24,242 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.713800 ms
+UnloadTime: 0.660800 ms
 Steam initializing
 Setting breakpad minidump AppID = 1030300
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199148105584 [API loaded no]
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.650100 ms
+UnloadTime: 2.202800 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'FR'
 Restored language code 'FR'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 9.479400 ms (FindLiveObjects: 0.797700 ms CreateObjectMapping: 0.713400 ms MarkObjects: 7.861500 ms  DeleteObjects: 0.103800 ms)
+Total: 8.797300 ms (FindLiveObjects: 0.447100 ms CreateObjectMapping: 1.180700 ms MarkObjects: 7.092200 ms  DeleteObjects: 0.076500 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 10.670700 ms (FindLiveObjects: 0.604100 ms CreateObjectMapping: 0.992700 ms MarkObjects: 9.030200 ms  DeleteObjects: 0.042700 ms)
+Total: 10.887200 ms (FindLiveObjects: 0.611100 ms CreateObjectMapping: 1.008900 ms MarkObjects: 9.224000 ms  DeleteObjects: 0.042300 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 27.510600 ms
+UnloadTime: 9.172300 ms
 Loaded saved language code 'FR'
 Restored language code 'FR'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66300.
-Total: 73.238500 ms (FindLiveObjects: 11.039000 ms CreateObjectMapping: 10.385300 ms MarkObjects: 51.500200 ms  DeleteObjects: 0.313100 ms)
+Total: 94.023900 ms (FindLiveObjects: 10.628300 ms CreateObjectMapping: 10.867000 ms MarkObjects: 72.192000 ms  DeleteObjects: 0.335600 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 274 unused Assets to reduce memory usage. Loaded Objects now: 113627.
-Total: 129.016500 ms (FindLiveObjects: 13.348300 ms CreateObjectMapping: 11.803500 ms MarkObjects: 100.835400 ms  DeleteObjects: 3.028100 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 107739.
+Total: 117.750200 ms (FindLiveObjects: 12.289300 ms CreateObjectMapping: 8.146400 ms MarkObjects: 95.848000 ms  DeleteObjects: 1.465700 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0,63 for Obtenir
-Text Type (TextMeshUpdateMinHeight) Setting height to 0,63 for Obtenir
-Text Type (TextMeshUpdateMinHeight) Setting height to 0,63 for Obtenir
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 5042 unused Assets to reduce memory usage. Loaded Objects now: 146503.
-Total: 208.502500 ms (FindLiveObjects: 16.864100 ms CreateObjectMapping: 13.385500 ms MarkObjects: 144.329800 ms  DeleteObjects: 33.921900 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3495 unused Assets to reduce memory usage. Loaded Objects now: 146709.
-Total: 206.544800 ms (FindLiveObjects: 15.571600 ms CreateObjectMapping: 10.749600 ms MarkObjects: 149.435800 ms  DeleteObjects: 30.786500 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Can not play a disabled audio source
 Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
+Can not play a disabled audio source
+Can not play a disabled audio source
 Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 6099 unused Assets to reduce memory usage. Loaded Objects now: 147188.
-Total: 254.813000 ms (FindLiveObjects: 17.712600 ms CreateObjectMapping: 10.836400 ms MarkObjects: 185.509300 ms  DeleteObjects: 40.753200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 6284 unused Assets to reduce memory usage. Loaded Objects now: 143089.
+Total: 261.546500 ms (FindLiveObjects: 17.005200 ms CreateObjectMapping: 14.027700 ms MarkObjects: 207.272100 ms  DeleteObjects: 23.240500 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3467 unused Assets to reduce memory usage. Loaded Objects now: 147375.
-Total: 225.774000 ms (FindLiveObjects: 16.466700 ms CreateObjectMapping: 10.213600 ms MarkObjects: 174.426200 ms  DeleteObjects: 24.666300 ms)
-
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
 Can not play a disabled audio source
 Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
+Can not play a disabled audio source
+Can not play a disabled audio source
 Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 6072 unused Assets to reduce memory usage. Loaded Objects now: 147613.
-Total: 212.643800 ms (FindLiveObjects: 16.602000 ms CreateObjectMapping: 10.641000 ms MarkObjects: 144.953100 ms  DeleteObjects: 40.446500 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143105.
+Total: 208.602300 ms (FindLiveObjects: 16.803200 ms CreateObjectMapping: 10.436600 ms MarkObjects: 158.556400 ms  DeleteObjects: 22.805200 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3468 unused Assets to reduce memory usage. Loaded Objects now: 147800.
-Total: 215.567000 ms (FindLiveObjects: 17.103400 ms CreateObjectMapping: 10.287400 ms MarkObjects: 162.069800 ms  DeleteObjects: 26.105500 ms)
-
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Can not play a disabled audio source
 Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
+Can not play a disabled audio source
+Can not play a disabled audio source
 Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143123.
+Total: 199.709900 ms (FindLiveObjects: 17.040200 ms CreateObjectMapping: 10.404200 ms MarkObjects: 151.935900 ms  DeleteObjects: 20.328400 ms)
+
 Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 6068 unused Assets to reduce memory usage. Loaded Objects now: 148024.
-Total: 220.048600 ms (FindLiveObjects: 17.034200 ms CreateObjectMapping: 10.765300 ms MarkObjects: 153.514100 ms  DeleteObjects: 38.734000 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4379 unused Assets to reduce memory usage. Loaded Objects now: 143363.
+Total: 205.820500 ms (FindLiveObjects: 17.294700 ms CreateObjectMapping: 13.525300 ms MarkObjects: 154.901000 ms  DeleteObjects: 20.098700 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3509 unused Assets to reduce memory usage. Loaded Objects now: 148214.
-Total: 229.958000 ms (FindLiveObjects: 15.789400 ms CreateObjectMapping: 10.795500 ms MarkObjects: 149.092900 ms  DeleteObjects: 54.278800 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143387.
+Total: 188.202700 ms (FindLiveObjects: 16.864300 ms CreateObjectMapping: 10.218200 ms MarkObjects: 141.212800 ms  DeleteObjects: 19.906500 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3480 unused Assets to reduce memory usage. Loaded Objects now: 148402.
-Total: 219.049900 ms (FindLiveObjects: 17.100400 ms CreateObjectMapping: 10.077600 ms MarkObjects: 166.008200 ms  DeleteObjects: 25.862600 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143403.
+Total: 193.328600 ms (FindLiveObjects: 17.113800 ms CreateObjectMapping: 10.800500 ms MarkObjects: 145.073300 ms  DeleteObjects: 20.339900 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3469 unused Assets to reduce memory usage. Loaded Objects now: 148590.
-Total: 194.658500 ms (FindLiveObjects: 16.843400 ms CreateObjectMapping: 10.265900 ms MarkObjects: 142.295400 ms  DeleteObjects: 25.252800 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143419.
+Total: 202.142100 ms (FindLiveObjects: 17.454800 ms CreateObjectMapping: 10.658200 ms MarkObjects: 153.348700 ms  DeleteObjects: 20.679400 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Coroutine couldn't be started because the the game object 'Slash Collider 2' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3470 unused Assets to reduce memory usage. Loaded Objects now: 148777.
-Total: 210.960400 ms (FindLiveObjects: 17.048700 ms CreateObjectMapping: 10.235000 ms MarkObjects: 158.628600 ms  DeleteObjects: 25.047000 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143435.
+Total: 197.691300 ms (FindLiveObjects: 16.912800 ms CreateObjectMapping: 10.527700 ms MarkObjects: 149.768900 ms  DeleteObjects: 20.480900 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3517 unused Assets to reduce memory usage. Loaded Objects now: 148966.
-Total: 206.918200 ms (FindLiveObjects: 19.025900 ms CreateObjectMapping: 10.443300 ms MarkObjects: 151.375300 ms  DeleteObjects: 26.072300 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143451.
+Total: 208.520400 ms (FindLiveObjects: 17.484700 ms CreateObjectMapping: 12.121400 ms MarkObjects: 150.475400 ms  DeleteObjects: 28.437900 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3501 unused Assets to reduce memory usage. Loaded Objects now: 149155.
-Total: 208.240900 ms (FindLiveObjects: 16.750800 ms CreateObjectMapping: 10.118400 ms MarkObjects: 155.938000 ms  DeleteObjects: 25.431300 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143467.
+Total: 234.204300 ms (FindLiveObjects: 28.130000 ms CreateObjectMapping: 10.304000 ms MarkObjects: 175.915500 ms  DeleteObjects: 19.853700 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3469 unused Assets to reduce memory usage. Loaded Objects now: 149342.
-Total: 196.336100 ms (FindLiveObjects: 16.583800 ms CreateObjectMapping: 10.087800 ms MarkObjects: 144.432300 ms  DeleteObjects: 25.231000 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143483.
+Total: 192.610000 ms (FindLiveObjects: 16.867600 ms CreateObjectMapping: 10.525200 ms MarkObjects: 145.239100 ms  DeleteObjects: 19.977200 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3476 unused Assets to reduce memory usage. Loaded Objects now: 149530.
-Total: 198.547400 ms (FindLiveObjects: 17.530100 ms CreateObjectMapping: 10.138000 ms MarkObjects: 144.841300 ms  DeleteObjects: 26.035700 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143499.
+Total: 200.142400 ms (FindLiveObjects: 17.198900 ms CreateObjectMapping: 10.453100 ms MarkObjects: 144.826800 ms  DeleteObjects: 27.662500 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3474 unused Assets to reduce memory usage. Loaded Objects now: 149717.
-Total: 198.416300 ms (FindLiveObjects: 17.328500 ms CreateObjectMapping: 10.255400 ms MarkObjects: 144.782600 ms  DeleteObjects: 26.049000 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143515.
+Total: 192.347200 ms (FindLiveObjects: 17.585600 ms CreateObjectMapping: 10.511400 ms MarkObjects: 143.714500 ms  DeleteObjects: 20.534500 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3477 unused Assets to reduce memory usage. Loaded Objects now: 149905.
-Total: 207.783100 ms (FindLiveObjects: 18.056700 ms CreateObjectMapping: 10.872500 ms MarkObjects: 153.282300 ms  DeleteObjects: 25.570800 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143531.
+Total: 233.975500 ms (FindLiveObjects: 16.603700 ms CreateObjectMapping: 11.409400 ms MarkObjects: 180.021100 ms  DeleteObjects: 25.939600 ms)
 
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3487 unused Assets to reduce memory usage. Loaded Objects now: 150093.
-Total: 204.186400 ms (FindLiveObjects: 18.160900 ms CreateObjectMapping: 10.806000 ms MarkObjects: 149.121100 ms  DeleteObjects: 26.096100 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3478 unused Assets to reduce memory usage. Loaded Objects now: 150281.
-Total: 203.435600 ms (FindLiveObjects: 18.982100 ms CreateObjectMapping: 10.745000 ms MarkObjects: 148.147900 ms  DeleteObjects: 25.559800 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 3498 unused Assets to reduce memory usage. Loaded Objects now: 150469.
-Total: 206.814500 ms (FindLiveObjects: 18.001800 ms CreateObjectMapping: 10.859300 ms MarkObjects: 152.256300 ms  DeleteObjects: 25.696300 ms)
-
-Coroutine couldn't be started because the the game object 'Hero_Hornet(Clone)' is inactive!
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
