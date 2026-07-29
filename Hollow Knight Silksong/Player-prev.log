@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     5874 MB
     Driver:   32.0.65535.65535
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.370 seconds
-- Finished resetting the current domain, in  0.007 seconds
+- Loaded All Assemblies, in  0.211 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,386 +24,49 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.323100 ms
+[Message:   BepInEx] BepInEx 5.4.23.5 - Hollow Knight Silksong (04/09/2025 15:05:44)
+[Info   :   BepInEx] Running under Unity v6000.0.50.3512832
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+UnloadTime: 0.753100 ms
 Steam initializing
 Setting breakpad minidump AppID = 1030300
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199148105584 [API loaded no]
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.913800 ms
+UnloadTime: 1.664100 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'FR'
 Restored language code 'FR'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 9.523200 ms (FindLiveObjects: 0.428300 ms CreateObjectMapping: 1.046300 ms MarkObjects: 7.968900 ms  DeleteObjects: 0.078700 ms)
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 11.298000 ms (FindLiveObjects: 0.609200 ms CreateObjectMapping: 1.242700 ms MarkObjects: 9.337400 ms  DeleteObjects: 0.106400 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 10.719900 ms (FindLiveObjects: 0.591700 ms CreateObjectMapping: 1.000200 ms MarkObjects: 9.060700 ms  DeleteObjects: 0.066300 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13332.
+Total: 14.506200 ms (FindLiveObjects: 0.608300 ms CreateObjectMapping: 1.125600 ms MarkObjects: 12.724600 ms  DeleteObjects: 0.046600 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 27.452600 ms
+UnloadTime: 29.173200 ms
 Loaded saved language code 'FR'
 Restored language code 'FR'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66300.
-Total: 78.410800 ms (FindLiveObjects: 10.659900 ms CreateObjectMapping: 10.982400 ms MarkObjects: 56.366400 ms  DeleteObjects: 0.401200 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66306.
+Total: 81.168100 ms (FindLiveObjects: 6.562300 ms CreateObjectMapping: 13.629900 ms MarkObjects: 60.667200 ms  DeleteObjects: 0.307500 ms)
 
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 107714.
-Total: 142.333600 ms (FindLiveObjects: 12.489000 ms CreateObjectMapping: 9.621900 ms MarkObjects: 118.969200 ms  DeleteObjects: 1.252500 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 6284 unused Assets to reduce memory usage. Loaded Objects now: 143063.
-Total: 209.624800 ms (FindLiveObjects: 17.204100 ms CreateObjectMapping: 14.367900 ms MarkObjects: 154.542300 ms  DeleteObjects: 23.509100 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143083.
-Total: 216.754000 ms (FindLiveObjects: 15.245600 ms CreateObjectMapping: 15.567500 ms MarkObjects: 161.766400 ms  DeleteObjects: 24.173200 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143101.
-Total: 191.205700 ms (FindLiveObjects: 23.193800 ms CreateObjectMapping: 10.554100 ms MarkObjects: 136.715100 ms  DeleteObjects: 20.741600 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143117.
-Total: 224.366100 ms (FindLiveObjects: 17.044100 ms CreateObjectMapping: 10.694000 ms MarkObjects: 176.594300 ms  DeleteObjects: 20.032400 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143133.
-Total: 201.879900 ms (FindLiveObjects: 16.691600 ms CreateObjectMapping: 10.650500 ms MarkObjects: 155.097100 ms  DeleteObjects: 19.439400 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143149.
-Total: 247.130400 ms (FindLiveObjects: 17.382100 ms CreateObjectMapping: 10.596000 ms MarkObjects: 198.596700 ms  DeleteObjects: 20.554600 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143165.
-Total: 211.757200 ms (FindLiveObjects: 15.862900 ms CreateObjectMapping: 9.711200 ms MarkObjects: 166.964400 ms  DeleteObjects: 19.217700 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4379 unused Assets to reduce memory usage. Loaded Objects now: 143391.
-Total: 198.936900 ms (FindLiveObjects: 16.031000 ms CreateObjectMapping: 9.798400 ms MarkObjects: 154.565900 ms  DeleteObjects: 18.540700 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143407.
-Total: 214.915500 ms (FindLiveObjects: 13.521600 ms CreateObjectMapping: 10.577800 ms MarkObjects: 167.874100 ms  DeleteObjects: 22.940800 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143425.
-Total: 195.082800 ms (FindLiveObjects: 16.593400 ms CreateObjectMapping: 10.243500 ms MarkObjects: 148.695700 ms  DeleteObjects: 19.548900 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Coroutine couldn't be started because the the game object 'Abyss Bullet(Clone)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 4375 unused Assets to reduce memory usage. Loaded Objects now: 143442.
-Total: 206.130800 ms (FindLiveObjects: 15.599900 ms CreateObjectMapping: 9.671600 ms MarkObjects: 162.457100 ms  DeleteObjects: 18.401300 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
